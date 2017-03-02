@@ -1,0 +1,256 @@
+  /*
+  describe('Getting part of an array; fn6()', function(){
+    
+    var fn = function(arr, ){
+      var out;
+      // WHAT GOES HERE???
+      return out;
+    }
+    it('', function(){
+
+    });
+  });
+  /*
+  //--- .slice()
+  describe('', function(){
+    
+    var fn = function(arr, val){
+      var out;
+      // WHAT GOES HERE???
+      return out;
+    }
+    it('', function(){
+
+    });
+  });
+  //--- .fill()
+  describe('', function(){
+    
+    var fn = function(arr, val){
+      var out;
+      // WHAT GOES HERE???
+      return out;
+    }
+    it('', function(){
+
+    });
+  });
+  //--- .shift()
+  describe('', function(){
+    
+    var fn = function(arr, val){
+      var out;
+      // WHAT GOES HERE???
+      return out;
+    }
+    it('', function(){
+
+    });
+  });
+  //--- .reverse()
+  describe('', function(){
+    
+    var fn = function(arr, val){
+      var out;
+      // WHAT GOES HERE???
+      return out;
+    }
+    it('', function(){
+
+    });
+  });
+  //--- .indexOf()
+  describe('', function(){
+    
+    var fn = function(arr, val){
+      var out;
+      // WHAT GOES HERE???
+      return out;
+    }
+    it('', function(){
+
+    });
+  });
+  //--- .includes()
+  describe('', function(){
+    
+    var fn = function(arr, val){
+      var out;
+      // WHAT GOES HERE???
+      return out;
+    }
+    it('', function(){
+
+    });
+  });
+  //--- .find()
+  describe('', function(){
+    
+    var fn = function(arr, val){
+      var out;
+      // WHAT GOES HERE???
+      return out;
+    }
+    it('', function(){
+
+    });
+  });
+  //--- .unshift()
+  describe('', function(){
+    
+    var fn = function(arr, val){
+      var out;
+      // WHAT GOES HERE???
+      return out;
+    }
+    it('', function(){
+
+    });
+  });
+  //--- .splice()
+  describe('', function(){
+    
+    var fn = function(arr, val){
+      var out;
+      // WHAT GOES HERE???
+      return out;
+    }
+    it('', function(){
+
+    });
+  });
+  //--- .every()
+  describe('', function(){
+    
+    var fn = function(arr, val){
+      var out;
+      // WHAT GOES HERE???
+      return out;
+    }
+    it('', function(){
+
+    });
+  });
+  //--- .pop()
+  describe('', function(){
+    
+    var fn = function(arr, val){
+      var out;
+      // WHAT GOES HERE???
+      return out;
+    }
+    it('', function(){
+
+    });
+  });
+  //--- .reduce()
+  describe('', function(){
+    
+    var fn = function(arr, val){
+      var out;
+      // WHAT GOES HERE???
+      return out;
+    }
+    it('', function(){
+
+    });
+  });
+  //--- .filter()
+  describe('', function(){
+    
+    var fn = function(arr, val){
+      var out;
+      // WHAT GOES HERE???
+      return out;
+    }
+    it('', function(){
+
+    });
+  });
+  //--- .concat()
+  describe('', function(){
+    
+    var fn = function(arr, val){
+      var out;
+      // WHAT GOES HERE???
+      return out;
+    }
+    it('', function(){
+
+    });
+  });
+  //--- Array.from()
+  describe('', function(){
+    
+    var fn = function(arr, val){
+      var out;
+      // WHAT GOES HERE???
+      return out;
+    }
+    it('', function(){
+
+    });
+  });
+  //--- .lastIndexOf()
+  describe('', function(){
+    
+    var fn = function(arr, val){
+      var out;
+      // WHAT GOES HERE???
+      return out;
+    }
+    it('', function(){
+
+    });
+  });
+  //--- .push()
+  describe('', function(){
+    
+    var fn = function(arr, val){
+      var out;
+      // WHAT GOES HERE???
+      return out;
+    }
+    it('', function(){
+
+    });
+  });
+  //--- .map()
+  describe('', function(){
+    
+    var fn = function(arr, val){
+      var out;
+      // WHAT GOES HERE???
+      return out;
+    }
+    it('', function(){
+
+    });
+  });
+  //--- .some()
+  describe('', function(){
+    
+    var fn = function(arr, val){
+      var out;
+      // WHAT GOES HERE???
+      return out;
+    }
+    it('', function(){
+
+    });
+  });
+
+  //--- .findIndex()
+  describe('', function(){
+    
+    var fn = function(arr, val){
+      var out;
+      // WHAT GOES HERE???
+      return out;
+    }
+    it('', function(){
+
+    });
+  });
+*/
+});
