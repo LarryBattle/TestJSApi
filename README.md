@@ -13,8 +13,11 @@ npm install
 ```
 
 ## How to run Tests
-After install downloading the repo and install the npm modules, run `npm test` from the terminal inside this direction that contains the README.md
+After downloading the repo and installing the npm modules, run `npm test` from the terminal inside this directory.
 
+```
+npm test
+```
 
 ### Note
 - You shouldn't have to use sudo to install npm modules.
